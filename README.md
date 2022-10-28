@@ -1,2 +1,0 @@
-# KunshBharadia
-Portfolio Website
